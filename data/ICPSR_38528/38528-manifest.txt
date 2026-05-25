@@ -1,0 +1,301 @@
+File Manifest for ICPSR 38528
+
+Clarke, Philippa, Robert Melendez, Grace Noppert, Megan Chenoweth, and
+Lindsay Gypin. National Neighborhood Data Archive (NaNDA): Socioeconomic
+Status and Demographic Characteristics of Census Tracts and ZIP Code
+Tabulation Areas, United States, 1990-2022. ICPSR38528-v6. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2025-10-27. http://doi.org/10.3886/ICPSR38528.v6
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-descriptioncitation.pdf       -       -         -       2025-10-27  -
+
+    38528-related_literature.txt        -       -         -       daily       -
+
+    38528-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Neighborhood Socioeconomic and Demographic Characteristics of Census
+Tracts (2010 Census), United States, 1990-2010 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0001-Codebook-ICPSR.epub      -       -         -       2025-01-22  d3a798ad287fb9420bb06a475b137577
+
+    38528-0001-Codebook-ICPSR.pdf       -       -         -       2025-01-22  17dbc89684003df1452718e2e3fff1f6
+
+    38528-0001-Data.dta                 -       72,891    673     2025-01-22  21ecceede651e3cd27ad36df02b2f58d
+
+    38528-0001-Data.rda                 -       72,891    673     2025-01-22  7a2c4e3eb868ee9cd5a22dc5abd7c17e
+
+    38528-0001-Data.sav                 -       72,891    673     2025-01-22  5b4a17fb13824a061b356cfe2d12ddd5
+
+    38528-0001-Data.stc                 -       72,891    673     2025-01-22  4d9aacc3fb26dd526472ac9a67d376bb
+
+    38528-0001-Data.tsv                 -       72,891    673     2025-01-22  58160f4be9cb05137b830147d0428130
+
+    38528-0001-Data.txt                 10081   72,891    673     2025-01-22  042e21fe6b28e905568ea36c2860b179
+
+    38528-0001-Documentation.pdf        -       -         -       2025-01-22  31a78ec0e21d8d0546a03be07d2b5463
+
+    38528-0001-Setup.dct                -       -         -       2025-01-22  4f2067558a0102cf498ee2a16d5b744d
+
+    38528-0001-Setup.do                 -       -         -       2025-01-22  59dc7dd4776c3d33a62d01b974dfa931
+
+    38528-0001-Setup.sas                -       -         -       2025-01-22  d90ad91244c2e600bd1f20530f5b55a1
+
+    38528-0001-Setup.sps                -       -         -       2025-01-22  c7105ffbe36afae51d3d2fb42baccdfe
+
+
+DS0002 Socioeconomic Status and Demographic Characteristics of Census
+Tracts (2010 Census), United States, 2008-2017 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0002-Codebook-ICPSR.epub      -       -         -       2025-01-22  55aba91ee0fcda2b8e0925c081aa3aaf
+
+    38528-0002-Codebook-ICPSR.pdf       -       -         -       2025-01-22  34245632bc52a638acf90c835b7992cd
+
+    38528-0002-Data.dta                 -       73,081    66      2025-01-22  6b1779a428fcb2c04108cc596676c689
+
+    38528-0002-Data.rda                 -       73,081    66      2025-01-22  7f7fa1d63c8d2ed7a8e6bb838bc813b9
+
+    38528-0002-Data.sav                 -       73,081    66      2025-01-22  5dc644b3c3d51233aa3a8ed712880d7c
+
+    38528-0002-Data.stc                 -       73,081    66      2025-01-22  9dbb82d748e53a0005490249a5976a06
+
+    38528-0002-Data.tsv                 -       73,081    66      2025-01-22  fa8c9dd598ee9478c650284adcb5b425
+
+    38528-0002-Data.txt                 966     73,081    66      2025-01-22  d3a474c74febe8763e06013dff09ae0d
+
+    38528-0002-Documentation.pdf        -       -         -       2025-01-22  d3472f8049323fb04f3808b300211858
+
+    38528-0002-Setup.dct                -       -         -       2025-01-22  e9226e42d7febd20f307329a1e7711ec
+
+    38528-0002-Setup.do                 -       -         -       2025-01-22  58c90d040e8e0651f98f5dff9fa94579
+
+    38528-0002-Setup.sas                -       -         -       2025-01-22  759d75b79f580ec0538bd26f8dc8d5eb
+
+    38528-0002-Setup.sps                -       -         -       2025-01-22  fc72f420b20f81a88f63e5f502275e62
+
+
+DS0003 Socioeconomic Status and Demographic Characteristics of ZIP Code
+Tabulation Areas (2010 Census), United States, 2008-2017 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0003-Codebook-ICPSR.epub      -       -         -       2025-01-22  5426c4b853fdd6039af85b01cea12e42
+
+    38528-0003-Codebook-ICPSR.pdf       -       -         -       2025-01-22  72d45c5d96eda7e28210223ab13d142a
+
+    38528-0003-Data.dta                 -       32,989    66      2025-01-22  753b06960e259986ed2fca7592118aef
+
+    38528-0003-Data.rda                 -       32,989    66      2025-01-22  0201939e8db2c23dc610e5ac155d64fe
+
+    38528-0003-Data.sav                 -       32,989    66      2025-01-22  67225e4d95ec28f54e938b5f64cae3e0
+
+    38528-0003-Data.stc                 -       32,989    66      2025-01-22  3df23da59ef6abf43de04fdbb746f887
+
+    38528-0003-Data.tsv                 -       32,989    66      2025-01-22  6caf2d131e9b45c87d856d1946c0ba4e
+
+    38528-0003-Data.txt                 962     32,989    66      2025-01-22  0a2f23ddeaf5f0e2f6fb384d08e7263c
+
+    38528-0003-Documentation.pdf        -       -         -       2025-01-22  3b978137c33904d39b86b414c58bc0de
+
+    38528-0003-Setup.dct                -       -         -       2025-01-22  f241cc9355bf4f024394e0c80768a741
+
+    38528-0003-Setup.do                 -       -         -       2025-01-22  ffa504df3c2c98919a8104a1e35444be
+
+    38528-0003-Setup.sas                -       -         -       2025-01-22  61e9ad012e509c7eb47a1c552adb264d
+
+    38528-0003-Setup.sps                -       -         -       2025-01-22  d0b63e4e47dc213f07f755f53825653f
+
+
+DS0004 Socioeconomic Status and Demographic Characteristics of Census
+Tracts (2020 Census), United States, 2016-2020 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0004-Codebook-ICPSR.epub      -       -         -       2025-01-22  d3eff6426d783e7702d1f8f69b604e5a
+
+    38528-0004-Codebook-ICPSR.pdf       -       -         -       2025-01-22  e21b169ad936899e7fefc58ef03b6a00
+
+    38528-0004-Data.dta                 -       85,395    39      2025-01-22  82fdd6f079c301a61ddfab4e7dcc4641
+
+    38528-0004-Data.rda                 -       85,395    39      2025-01-22  d09e3ab2b4b6e1ed246346d40b842415
+
+    38528-0004-Data.sav                 -       85,395    39      2025-01-22  aafb682a9426fc6fee6b91ca550584f1
+
+    38528-0004-Data.stc                 -       85,395    39      2025-01-22  fc8d8b3e88ca1681b12ceeb398251f1b
+
+    38528-0004-Data.tsv                 -       85,395    39      2025-01-22  16a7d08f7b7ce7134d6a529148feb400
+
+    38528-0004-Data.txt                 535     85,395    39      2025-01-22  2d26f771d0296db5efd5b638bf4c9962
+
+    38528-0004-Documentation-20162020_MULTI.pdf -       -         -       2025-01-22  ec5175fb23391590a35d2da11662f836
+
+    38528-0004-Setup.dct                -       -         -       2025-01-22  c9f926c26cf23a959555d2639c9146a9
+
+    38528-0004-Setup.do                 -       -         -       2025-01-22  530b914904640d1eb9c0bce03a7ca2ee
+
+    38528-0004-Setup.sas                -       -         -       2025-01-22  43508c4e922b0ef5d847f822153a29f8
+
+    38528-0004-Setup.sps                -       -         -       2025-01-22  bd4dddd37cc12a97b137b140ef17df2d
+
+
+DS0005 Socioeconomic Status and Demographic Characteristics of ZIP Code
+Tabulation Areas (2020 Census), United States, 2016-2020 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0005-Codebook-ICPSR.epub      -       -         -       2025-01-22  ba7f8f410435b2d3f1defffa46e87329
+
+    38528-0005-Codebook-ICPSR.pdf       -       -         -       2025-01-22  e46f5d8cf8933ce077012a02b1bcb69c
+
+    38528-0005-Data.dta                 -       32,989    39      2025-01-22  bcdeed6947affb107f3177f565f41dd4
+
+    38528-0005-Data.rda                 -       32,989    39      2025-01-22  173eff0a415a9dc76d58b5b0ba674b74
+
+    38528-0005-Data.sav                 -       32,989    39      2025-01-22  737151fea96e4662fd0b37f5a200fb78
+
+    38528-0005-Data.stc                 -       32,989    39      2025-01-22  cf22ccac9e9b26dd4ecf832867e68b19
+
+    38528-0005-Data.tsv                 -       32,989    39      2025-01-22  d95efb19c96119cbf96b166c33a08c41
+
+    38528-0005-Data.txt                 530     32,989    39      2025-01-22  5c00c941e1b5f97a8365d24015656aa3
+
+    38528-0005-Documentation-20162020_MULTI.pdf -       -         -       2025-01-22  ec5175fb23391590a35d2da11662f836
+
+    38528-0005-Setup.dct                -       -         -       2025-01-22  17bb528e90e2465f9dffc7e03af07fce
+
+    38528-0005-Setup.do                 -       -         -       2025-01-22  6244912b69b04a47b62bb0826ed41a5c
+
+    38528-0005-Setup.sas                -       -         -       2025-01-22  629c1af3ea2f2c562a6aade077b75217
+
+    38528-0005-Setup.sps                -       -         -       2025-01-22  75c04dd8f5f90bb42230f2e604a9daff
+
+
+DS0006 Socioeconomic Status and Demographic Characteristics of Census
+Tracts (2010 Census), United States, 2018-2022 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0006-Codebook-ICPSR.epub      -       -         -       2025-01-22  c157e80482362d48846d03fb329316cc
+
+    38528-0006-Codebook-ICPSR.pdf       -       -         -       2025-01-22  92d30133ffd68d62b63f9906b647b91c
+
+    38528-0006-Data.dta                 -       73,172    39      2025-01-22  1c6b3268945ab65861444530f3cd7397
+
+    38528-0006-Data.rda                 -       73,172    39      2025-01-22  04e52f22d28313b40e95e4f72f0933d8
+
+    38528-0006-Data.sav                 -       73,172    39      2025-01-22  d4e7554fb1297b24201b0a573dcf3025
+
+    38528-0006-Data.stc                 -       73,172    39      2025-01-22  b0cd3ea4d1a443f0117dc8d84361fab1
+
+    38528-0006-Data.tsv                 -       73,172    39      2025-01-22  f75ecd79a59346c610a6d47fdd865f20
+
+    38528-0006-Data.txt                 581     73,172    39      2025-01-22  94632c05931c7b9371d8295941bbf704
+
+    38528-0006-Setup.dct                -       -         -       2025-01-22  1cd29ac4ac5048e29ec857aa53eaf05a
+
+    38528-0006-Setup.do                 -       -         -       2025-01-22  96f2767f94a2cb301c7cf9948f118c5f
+
+    38528-0006-Setup.sas                -       -         -       2025-01-22  d1283bd10068217267aca4dcaa2521df
+
+    38528-0006-Setup.sps                -       -         -       2025-01-22  b00f6b41520723335ee69b0433348a9d
+
+
+DS0007 Socioeconomic Status and Demographic Characteristics of Census
+Tracts (2020 Census), United States, 2018-2022 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0007-Codebook-ICPSR.epub      -       -         -       2025-10-27  5bb4b11df73b6e885e576bfa97c2329e
+
+    38528-0007-Codebook-ICPSR.pdf       -       -         -       2025-10-27  8db56049a860565a0119d3dba421867a
+
+    38528-0007-Data.dta                 -       85,396    39      2025-10-27  3a51829e8c7135270ae4ded4b20f82b5
+
+    38528-0007-Data.rda                 -       85,396    39      2025-10-27  73b412ae0f22430f5744e5af61fed943
+
+    38528-0007-Data.sav                 -       85,396    39      2025-10-27  10d70b4705a38c431b7a83d60ca0615f
+
+    38528-0007-Data.stc                 -       85,396    39      2025-10-27  be12719446fb88f30cf163145d70f9e1
+
+    38528-0007-Data.tsv                 -       85,396    39      2025-10-27  a25a7e504a8b56da3d9e9a07a0d1afd2
+
+    38528-0007-Data.txt                 535     85,396    39      2025-10-27  debe8fc3ef6a1e27a9250e3558ff1079
+
+    38528-0007-Documentation-20182022_MULTI.pdf -       -         -       2025-10-27  6b47392af2f486ff0f4f4a635e1811dc
+
+    38528-0007-Setup.dct                -       -         -       2025-10-27  9102e3f904c34fcb62f85ea1fccac62e
+
+    38528-0007-Setup.do                 -       -         -       2025-10-27  0a6d941ba909537caee458a37aaac821
+
+    38528-0007-Setup.sas                -       -         -       2025-10-27  579c1cf3abb65e9a4b07c9f6144c720f
+
+    38528-0007-Setup.sps                -       -         -       2025-10-27  ad832fad225306d84d0d96dabac88a20
+
+
+DS0008 Socioeconomic Status and Demographic Characteristics of ZIP Code
+Tabulation Areas (2020 Census), United States, 2018-2022 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38528-0008-Codebook-ICPSR.epub      -       -         -       2025-10-27  ec03ebfe3b553de77b4e74ddfcbd7267
+
+    38528-0008-Codebook-ICPSR.pdf       -       -         -       2025-10-27  d019266603091c857f5380f0b5437995
+
+    38528-0008-Data.dta                 -       33,774    39      2025-10-27  58e7d5099da1691ba7bc19e10570c7aa
+
+    38528-0008-Data.rda                 -       33,774    39      2025-10-27  19e361390d5012c97f376b4a641fd0e2
+
+    38528-0008-Data.sav                 -       33,774    39      2025-10-27  97de749f614e94821020a5619581387b
+
+    38528-0008-Data.stc                 -       33,774    39      2025-10-27  b6c4a4d7421bd0ba4a60a58359f85465
+
+    38528-0008-Data.tsv                 -       33,774    39      2025-10-27  4e4852ff9d6160d37504d23b603dfad1
+
+    38528-0008-Data.txt                 530     33,774    39      2025-10-27  61167802ff0a16e169e6f739a689c83b
+
+    38528-0008-Documentation-20182022_MULTI.pdf -       -         -       2025-10-27  6b47392af2f486ff0f4f4a635e1811dc
+
+    38528-0008-Setup.dct                -       -         -       2025-10-27  75e2dcfdc1e1360a17d3b6649e5fd579
+
+    38528-0008-Setup.do                 -       -         -       2025-10-27  b5e1e179f20f1594d5a180e7b944b158
+
+    38528-0008-Setup.sas                -       -         -       2025-10-27  f42d3465fe6f7b8035ad05a22a488a7d
+
+    38528-0008-Setup.sps                -       -         -       2025-10-27  4bbefb50d402b084f039b455cc83bb4d
+
+
+Version History
+
+2025-10-27 Datasets 7 and 8 were updated to address a variable error. The
+P.I. documentation was updated to change the year for a data source.  2025-
+01-22 Data and documentation for 2018-2022 were added (DS6-DS8). The study
+title and P.I. list were updated. Data fileset names were updated to
+specify census year geography. ICPSR and PI documentation files were
+updated to reflect the revised title, P.I. list, and fileset names.  2024-
+10-02 Data and documentation for DS1 (2000-2010) were replaced with a new
+P.I. deposit covering 1990-2010. ICPSR codebooks for DS2, DS3, DS4, and DS5
+were updated to the latest format, and epub codebooks were added.  2023-04-
+17 Data and documentation for 2016-2020 were added (DS4 and DS5). The study
+title and P.I. list were updated. Covers for all documentation were updated
+to reflect the revised title and P.I. list.  2022-09-27 ICPSR codebook and
+documentation covers were updated to correct spelling for a P.I. name.

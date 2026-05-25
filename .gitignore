@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/ACSDP5Y2024.DP03_2026-05-25T014948/ACSDP5Y2024.DP03-Data.csv
+data/ACSDP5Y2024.DP04_2026-05-25T014331/ACSDP5Y2024.DP04-Data.csv
+data/zillow_zip_zhvi.csv
