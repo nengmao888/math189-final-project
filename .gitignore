@@ -16,3 +16,5 @@ CONUS_road_noise_2020/
 .ipynb_checkpoints/
 data/processed/zcta/zillow_zip_zhvi.csv
 data/processed/zcta/zillow_zip_zhvi.csv
+.DS_Store
+data/.DS_Store
